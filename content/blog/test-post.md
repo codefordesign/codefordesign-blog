@@ -6,3 +6,7 @@ description: Some description
 # Test title
 
 test content
+
+
+
+![Test image](/img/peter-plashkin-kt5jerzdqla-unsplash.jpg "Test image")
