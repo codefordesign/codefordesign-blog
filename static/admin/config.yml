@@ -7,11 +7,10 @@ public_folder: /img
 
 collections:
   - name: "blog"
-    identifier_field: url
     label: "Blog"
     folder: "content/blog"
     create: true
-    slug: "{{slug}}"
+    slug: "{{slug}}+{{url}}"
     editor:
       preview: true
     fields:
